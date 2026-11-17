@@ -51,4 +51,4 @@ La interfaz Android recibe y confirma la entrada. Un núcleo Kotlin separado ext
 
 ## 9. Gestión y privacidad
 
-Esta carpeta es una **copia documental de muestra** dentro del workspace SID. No contiene código fuente, APK, corpus de investigación ni historial Git. No se publicó ni se compartió. Para entregarla, se puede copiar únicamente esta carpeta a un directorio independiente y decidir después si se empaqueta o comparte.
+Este repositorio público es una **copia documental de muestra**. No contiene código fuente, APK, corpus de investigación ni historial del SID original. El repositorio fuente SID permanece privado y no se modificó.
