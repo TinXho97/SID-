@@ -2,4 +2,4 @@
 
 Informe compensatorio de SID para ADI.
 
-[Descargar informe en PDF](Compensatorio-ADI.pdf)
+[Descargar informe en PDF](Compensatorio%20ADI.pdf)
